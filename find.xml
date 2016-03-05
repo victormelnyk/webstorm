@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'editor'" />
-    <option name="defaultScopeName" value="Project 'editor'" />
+    <option name="customScope" value="Directory '/Users/victor/Source/work/src/submodules/vs/scripts'" />
+    <option name="defaultScopeName" value="Directory '/Users/victor/Source/work/src/submodules/vs/scripts'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'editor'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/victor/Source/work/src/submodules/vs/scripts'" />
   </component>
 </application>
