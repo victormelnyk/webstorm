@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '/Users/victor/Source/work/src/submodules/vs/tests/spec'" />
-    <option name="defaultScopeName" value="Directory '/Users/victor/Source/work/src/submodules/vs/tests/spec'" />
+    <option name="customScope" value="File '/Users/victor/Source/es6/src/functions_web.js'" />
+    <option name="defaultScopeName" value="File '/Users/victor/Source/es6/src/functions_web.js'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '/Users/victor/Source/work/src/submodules/vs/tests/spec'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/victor/Source/es6/src/functions_web.js'" />
   </component>
 </application>
