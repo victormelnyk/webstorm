@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '/Users/victor/Source/work/build/ngConstants/devMobenga.js'" />
-    <option name="defaultScopeName" value="File '/Users/victor/Source/work/build/ngConstants/devMobenga.js'" />
+    <option name="customScope" value="Directory '/Users/victor/Source/work/build/ngConstants'" />
+    <option name="defaultScopeName" value="Directory '/Users/victor/Source/work/build/ngConstants'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/victor/Source/work/build/ngConstants/devMobenga.js'" />
+    <option name="SEARCH_SCOPE" value="Directory '/Users/victor/Source/work/build/ngConstants'" />
   </component>
 </application>
