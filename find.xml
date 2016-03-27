@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '/Users/victor/Source/editor/src/index.js'" />
-    <option name="defaultScopeName" value="File '/Users/victor/Source/editor/src/index.js'" />
+    <option name="customScope" value="File '/Users/victor/Source/work/build/tasks/sprites.js'" />
+    <option name="defaultScopeName" value="File '/Users/victor/Source/work/build/tasks/sprites.js'" />
     <option name="localCaseSensitive" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="File '/Users/victor/Source/editor/src/index.js'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/victor/Source/work/build/tasks/sprites.js'" />
   </component>
 </application>
