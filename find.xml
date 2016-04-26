@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'retail-ms'" />
-    <option name="defaultScopeName" value="Project 'retail-ms'" />
+    <option name="customScope" value="File '/Users/victor/Source/retail-ms/src/server.js'" />
+    <option name="defaultScopeName" value="File '/Users/victor/Source/retail-ms/src/server.js'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'retail-ms'" />
+    <option name="SEARCH_SCOPE" value="File '/Users/victor/Source/retail-ms/src/server.js'" />
   </component>
 </application>
