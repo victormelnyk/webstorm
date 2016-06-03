@@ -51,6 +51,12 @@
     <local-interpreter path="/usr/local/bin/node">
       <version-cache version="6.1.0" last-modified="1462485157000" />
     </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v5.5.0/bin/node">
+      <version-cache version="5.5.0" last-modified="1453338062000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v4.4.4/bin/node">
+      <version-cache version="4.4.4" last-modified="1462495153000" />
+    </local-interpreter>
   </component>
   <component name="NodeLocalInterpreterManager">
     <node-interpreter path="/usr/local/bin/node" version="6.1.0" last-modified="1462485157000" />
