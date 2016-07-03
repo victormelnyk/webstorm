@@ -4,6 +4,7 @@
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="secret" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
+      <mapping pattern="logger" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
