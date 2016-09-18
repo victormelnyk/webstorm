@@ -5,6 +5,7 @@
       <mapping pattern="secret" type="PLAIN_TEXT" />
       <mapping pattern=".bashrc" type="PLAIN_TEXT" />
       <mapping pattern="logger" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
