@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Directory '.../src - [crawler-ms]'" />
-    <option name="defaultScopeName" value="Directory '.../src - [crawler-ms]'" />
+    <option name="customScope" value="File '.../src/submodules/bma/scripts/services/appReadyInterceptorFactory.js - [work]'" />
+    <option name="defaultScopeName" value="File '.../src/submodules/bma/scripts/services/appReadyInterceptorFactory.js - [work]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src - [crawler-ms]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/submodules/bma/scripts/services/appReadyInterceptorFactory.js - [work]'" />
   </component>
 </application>
