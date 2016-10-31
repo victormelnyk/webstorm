@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="File '.../src/app/scripts/directives/devLog.js - [work]'" />
-    <option name="defaultScopeName" value="File '.../src/app/scripts/directives/devLog.js - [work]'" />
+    <option name="customScope" value="Directory '.../build - [work]'" />
+    <option name="defaultScopeName" value="Directory '.../build - [work]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localWholeWordsOnly" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '.../src/app/scripts/directives/devLog.js - [work]'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../build - [work]'" />
   </component>
 </application>
