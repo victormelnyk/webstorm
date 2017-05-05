@@ -1,12 +1,12 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../src - [connect]'" />
-    <option name="defaultScopeName" value="Directory '.../src - [connect]'" />
+    <option name="customScope" value="File '.../src/mediator.js - [connect]'" />
+    <option name="defaultScopeName" value="File '.../src/mediator.js - [connect]'" />
     <option name="localCaseSensitive" value="true" />
     <option name="showResultsInSeparateView" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '.../src - [connect]'" />
+    <option name="SEARCH_SCOPE" value="File '.../src/mediator.js - [connect]'" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
