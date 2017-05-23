@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="!*.spec.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -20,6 +21,15 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>!sprites.less,!images.html</mask>
+      <mask>!sprites.less,!.html</mask>
+      <mask>!s.less,!.html</mask>
+      <mask>!sp.less,!.html</mask>
+      <mask>!spe.less,!.html</mask>
+      <mask>!spec.less,!.html</mask>
+      <mask>!*spec.less,!.html</mask>
+      <mask>!*.spec.less,!.html</mask>
+      <mask>!*.spec.j</mask>
+      <mask>!*.spec.js</mask>
     </recentFileMasks>
   </component>
 </application>
